@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\levma\source\repos\task25\PP-2\main.cpp(72,34): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  PP-2.vcxproj -> C:\Users\levma\source\repos\task25\x64\Debug\PP-2.exe
